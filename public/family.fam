@@ -1,0 +1,122 @@
+mother: someone's mother
+father: someone's father
+
+parent: someone's mother
+parent: someone's father
+
+son: someone's son
+daughter: someone's daughter
+
+child: someone's son
+child: someone's daughter
+
+eldest-brother: someone's eldest-brother
+elder-brother: someone's elder-brother
+elder-brother: someone's eldest-brother
+youngest-brother: someone's youngest-brother
+younger-brother: someone's younger-brother
+younger-brother: someone's youngest-brother
+brother: someone's brother
+brother: someone's eldest-brother
+brother: someone's elder-brother
+brother: someone's younger-brother
+brother: someone's youngest-brother
+
+eldest-sister: someone's eldest-sister
+elder-sister: someone's elder-sister
+elder-sister: someone's eldest-sister
+youngest-sister: someone's youngest-sister
+younger-sister: someone's younger-sister
+younger-sister: someone's youngest-sister
+sister: someone's sister
+sister: someone's eldest-sister
+sister: someone's elder-sister
+sister: someone's younger-sister
+sister: someone's youngest-sister
+
+maternal-grand-mother: someone's mother's mother
+maternal-grand-father: someone's mother's father
+paternal-grand-mother: someone's father's mother
+paternal-grand-father: someone's father's father
+
+grand-mother: someone's maternal-grand-mother
+grand-mother: someone's paternal-grand-mother
+grand-father: someone's maternal-grand-father
+grand-fater: someone's paternal-grand-father
+
+paternal-uncle: someone's father's brother
+paternal-aunt: someone's father's sister
+maternal-uncle: someone's mother's brother
+maternal-aunt: someone's mother's sister
+
+uncle: someone's paternal-uncle
+uncle: someone's maternal-uncle
+aunt: someone's paternal-aunt
+aunt: someone's maternal-aunt
+
+paternal-cousin: someone's paternal-uncle's child
+paternal-cousin: someone's paternal-aunt's child
+maternal-cousin: someone's maternal-uncle's child
+maternal-cousin: someone's maternal-aunt's child
+
+first-cousin: someone's paternal-cousin
+first-cousin: someone's maternal-cousin
+
+cousin: someone's first-cousin
+
+cousin-sister: someone's cousin & someone-else's daughter
+cousin-brother: someone's cousin & someone-else's son
+
+sister: someone's cousin-sister
+brother: someone's cousin-brother
+
+wife: someone's wife
+husband: someone's husband
+
+mother-in-law: someone's wife's mother
+father-in-law: someone's husband's mother
+
+brother-in-law: someone's wife's brother
+brother-in-law: someone's husband's brother
+
+sister-in-law: someone's wife's sister
+sister-in-law: someone's husband's sister
+
+*bangla: ma: someone's mother
+*bangla: baba: someone's father
+
+*bangla: khala: someone's maternal-aunt
+*bangla: khalu: someone's maternal-aunt's husband
+*bangla: mama: someone's maternal-uncle
+*bangla: mami: someone's maternal-uncle's wife
+
+*bangla: khalto-bhai: someone's maternal-aunt's son
+*bangla: khalto-bon: someone's maternal-aunt's daughter
+*bangla: mamto-bhai: someone's maternal-uncle's son
+*bangla: mamto-bon: someone's maternal-uncle's daughter
+
+*bangla: fuputo-bhai: someone's paternal-aunt's son
+*bangla: fuputo-bon: someone's paternal-aunt's daughter
+*bangla: chachato-bhai: someone's paternal-uncle's son
+*bangla: chachato-bon: someone's paternal-uncle's daughter
+
+*bangla: chacha: someone's paternal-uncle
+*bangla: chachi: someone's paternal-uncle's wife
+*bangla: fupu: someone's paternal-auth
+*bangla: fupa: someone's paternal-uncle's husband
+
+*bangla: dada: someone's paternal-grand-father
+*bangla: dadi: someone's paternal-grand-mother
+*bangla: nana: someone's maternal-grand-father
+*bangla: nani: someone's maternal-grand-mother
+
+*bangla: shoshur: someone's father-in-law
+*bangla: dada-shoshur: someone's father-in-law's father
+*bangla: chacha-shoshur: someone's father-in-law's brother
+
+*bangla: shashuri: someone's mother-in-law
+*bangla: nani-shashuri: someone's mother-in-law's mother
+*bangla: khala-shashuri: someone's mother-in-law's sister
+
+*bangla: shali: someone's wife's sister | younger-than-someone
+*bangla: shala: someone's wife's brother | younger-than-someone
